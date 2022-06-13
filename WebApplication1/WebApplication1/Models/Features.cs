@@ -11,5 +11,6 @@ namespace WebApplication1.Models
         public string Title { get; set; }
         public string Description { get; set; }
         public string Icon { get; set; }
+        public string Bg_color { get; set; }
     }
 }
